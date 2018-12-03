@@ -1,0 +1,23 @@
+{
+  "name": "sp-coord",
+  "version": "1.0.0",
+  "description": "Coord trans for WGS84,GCJ02,BD09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z41z/sp-tnt.git"
+  },
+  "keywords": [
+    "tnt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z41z/sp-tnt/issues"
+  },
+  "homepage": "https://github.com/z41z/sp-tnt#readme"
+}
